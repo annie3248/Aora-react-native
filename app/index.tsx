@@ -5,7 +5,7 @@ import "react-native-reanimated";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { images } from "../constants";
 import CustomButton from "./components/CustomButton";
-
+//test
 export default function Welcome() {
   return (
     <SafeAreaView className="bg-primary h-full">
